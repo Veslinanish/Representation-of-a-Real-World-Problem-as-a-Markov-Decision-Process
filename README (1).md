@@ -147,8 +147,8 @@ rewards = {
 
 discount_factor = 0.9
 
-print("Name: PRAKASH C ")
-print("Register Number: 212223240122 ")
+print("Name: VESLIN ANISH A")
+print("Register Number: 212223240175 ")
 
 print("\nStates:")
 print(states)
@@ -169,7 +169,8 @@ print("\nDiscount Factor (γ):", discount_factor)
 
 # Output
 
-<img width="606" height="395" alt="image" src="https://github.com/user-attachments/assets/0ac1880a-4f79-4d1e-af80-320586362b7c" />
+<img width="1165" height="483" alt="image" src="https://github.com/user-attachments/assets/ac64cd23-90c7-4374-96a4-86978e415e7b" />
+
 
 
 
